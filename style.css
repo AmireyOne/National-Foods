@@ -121,3 +121,15 @@ input {
   margin-top: 1rem;
   font-size: 1.6rem;
 }
+.loading-text{
+  font-size: 30px;
+  margin-top: 50px;
+  transform: translateY(50px) translateX(20px);
+ 
+}
+.loding{
+  text-align: center;
+}
+.img-loading{
+  width: 300px;
+}

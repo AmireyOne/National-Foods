@@ -23,8 +23,8 @@ body {
     margin: 0 auto;
     margin-top: 30px;
     margin-bottom: 30px;
-    max-width: 500px;
-    max-height: 500px;
+    max-width: 350px;
+    max-height: 350px;
     border-radius: 50%;
     border: 10px solid #920000;
     box-shadow: 0px 0px 10px 2px #920000;
@@ -38,15 +38,15 @@ body {
 }
 
 h2{
-    font-size: 30px;
+    font-size: 27px;
     margin-top: 20px;
 }
 h1{
-    font-size: 40px;
+    font-size: 37px;
     font-weight: bold;
 }
 ul{
-    font-size: 25px;
+    font-size: 22px;
     margin-top: 10px;
     margin-left: 50px;
     line-height: 36px;
@@ -60,10 +60,18 @@ p{
     line-height: 35px;
 }
 .loading-text{
-    font-size: 50px;
-    margin: 50px auto;
-    text-align: center;
+  font-size: 30px;
+  margin-top: 50px;
+  transform: translateY(50px) translateX(20px);
+ 
 }
+.loding{
+  text-align: center;
+}
+.img-loading{
+  width: 300px;
+}
+
 h6{
     font-size: 20px;
 }
